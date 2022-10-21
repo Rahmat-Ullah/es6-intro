@@ -24,4 +24,4 @@ const y = x => x*x;
 const z= y(5);
 console.log(z);
 
-const divi = num1, num2 => console.log(num1/num2);
+const divi = (num1, num2) => console.log(num1/num2);
